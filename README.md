@@ -1,0 +1,1 @@
+Models I built while studying Computational Statistics. Some examples: Lasso/Ridge, Splines and Smoothing splines, Density Estimation and Kernel Methods, Gaussian Mixture Model, Hidden Markov Model, PCA, Recommender Systems, Monte Carlo methods, Markov chain Monte Carlo, Bagging, Boosting, Bootstrap, Random Forest, Neural networks.
